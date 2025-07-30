@@ -8,7 +8,7 @@ cmds = [
 [phases.install]
 onlyIncludeFiles = [
   "package.json",
-  "bun.lockb",
+  "bun.lock",
   "composer.json",
   "composer.lock",
 ]
